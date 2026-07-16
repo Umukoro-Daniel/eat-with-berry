@@ -664,6 +664,27 @@ important;
         width: 315px;
         margin: 20px 0;
     }
+        /*logo*/
+    .logo h2{
+        color: white;
+        /*logo*/
+        line-height: 1.1;
+    }
+/*logo*/
+    .logo{
+        display: flex;
+        align-items: center;
+        gap: 12px;
+        margin-left: -10px;
+    }
+    .logo img{
+        width: 60px;
+        height: 60px;
+        object-fit: contain;
+    }
+    .logo span{
+        font-size: 1.3rem;
+    }
 
 
 }
