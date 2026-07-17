@@ -95,4 +95,7 @@ navLink.forEach((link) => {
 
     });
 
+    
 });
+//footer year
+document.getElementById("each-year").textContent = new Date().getFullYear();
