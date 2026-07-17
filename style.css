@@ -696,3 +696,15 @@ important;
     color: white;
     cursor: pointer;
 }
+
+footer{
+    background: #111;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+    font-size: 16px;
+    border-top: 2px solid #E6B325;
+}
+footer p{
+    margin: 0;
+}
